@@ -1,4 +1,5 @@
 from setuptools import setup
+from sys import integrar
 
 setup(name='bloodhound',
       version='1.7.2',
